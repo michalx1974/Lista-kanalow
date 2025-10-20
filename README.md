@@ -1,2 +1,2 @@
-# Lista-kanalow
+# Lista-kanałów
 Lista kanałów INEA
